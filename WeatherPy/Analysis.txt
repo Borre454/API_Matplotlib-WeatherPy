@@ -1,0 +1,5 @@
+Analysis of Data
+
+1: Cities in the +/- 20 latitudes have a higher wind speeds.
+2: The further north you go the colder it gets. This is expected around this time of year.
+3: There is no correlation between temperature and humidity.
